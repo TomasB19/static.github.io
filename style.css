@@ -64,7 +64,7 @@ text-align: center;
 }
 
 h1 {
-  color: gold;
+  color: white;
 }
 
 h2 {
@@ -100,7 +100,7 @@ ul {
   font-family: constantia;
 }
 
-.type-biere {
+.biere {
   color: white;
   font-family: constantia;
 }
@@ -110,7 +110,7 @@ a {
 }
 
 .btn {
-  color: black;
+  color: white;
   background: transparent;
 }
 
@@ -121,10 +121,7 @@ a {
 
 .cadre {
   background: black;
-  border: 5px solid black;
-  margin: 100px;
-  padding: 50px;
-  border-radius: 30px;
+  
 }
 
 
@@ -160,16 +157,43 @@ a {
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
 }
 
-.typeform-share button {
+.typeform-share {
+  align-items: center;
   background: beige;
   color: beige;
+
 }
 
+.slide1
+{
+  width: 100px ; Ò
+  height: 50px ;
+}
 
+.slide2
+{
+  width: 100px ; Ò
+  height: 50px ;
+}
 
+.slide3
+{
+  width: 100px ; Ò
+  height: 50px ;
+}
 .histoire-biere {
   font-family: constantia;
 
 }
 
+.footer-links {
+width: 100%;
+background: black;
+margin: 0;
 
+
+}
+
+.footer-copyright {
+  color: white;
+}
