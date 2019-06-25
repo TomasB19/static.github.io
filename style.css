@@ -1,0 +1,199 @@
+body {
+
+
+background: beige;
+background: beige;
+
+font-family: arial;
+text-align: center;
+}
+
+.navbar {
+  background: black;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: left;
+  display: flex;
+  height: 125px;
+
+
+}
+
+.links {
+  color: black;
+  font-size: 16px;
+  font-family: arial;
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.link {
+  color: white;
+
+  }
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+
+.desk {
+  background: black;
+  height: 200px;
+  width: 100%;
+  display: flex;
+  align-items: : center;
+  justify-content: space-around;
+}
+
+.deskphoto {
+  width: 160px;
+  height: 190px;
+}
+
+.desktitle {
+  color: white;
+  align-self: center;
+}
+
+.deskp {
+  font-size: 18px;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: black;
+}
+
+p {
+  font-size: 24px;
+  font-family: constantia;
+}
+
+h3 {
+  color: white;
+  text-align: left;
+}
+
+ul {
+  font-size: 24px;
+  text-align: left;
+}
+
+.citation {
+  color: black
+  font-size : 50px;
+}
+
+.text-bold {
+ animation-iteration-count: 
+}
+
+.histoire-biere {
+  color : white;
+  font-family: constantia;
+}
+
+.biere {
+  color: white;
+  font-family: constantia;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn {
+  color: white;
+  background: transparent;
+}
+
+.btn:hover {
+  color: black;
+  background: beige;
+}
+
+.cadre {
+  background: black;
+  
+}
+
+
+.fa-beer {
+  font-size: 40px;
+  color: white;
+}
+
+{background:#fff; 
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+}
+
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 20px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+.typeform-share {
+  align-items: center;
+  background: beige;
+  color: beige;
+
+}
+
+.slide1
+{
+  width: 100px ; Ò
+  height: 50px ;
+}
+
+.slide2
+{
+  width: 100px ; Ò
+  height: 50px ;
+}
+
+.slide3
+{
+  width: 100px ; Ò
+  height: 50px ;
+}
+.histoire-biere {
+  font-family: constantia;
+
+}
+
+.footer-links {
+width: 100%;
+background: black;
+margin: 0;
+
+
+}
+
+.footer-copyright {
+  color: white;
+}
